@@ -1,0 +1,11 @@
+HHHHHHHHHH
+HHHHHHHHHH
+HHHHHHHHHH
+HHHHHHHHHH
+HHHHHHHHHH
+HSSSSSSSHH
+SSSSSSSSSS
+SSSSSSSSSS
+
+row represent when the player has 2 cards, and if one of them is Ace, the value of the other card, up to down, 2 to 9
+column represent face up card value of the dealer, left to right, 1 to 10
